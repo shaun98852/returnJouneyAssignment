@@ -1,0 +1,62 @@
+.backColor {
+  background-image: linear-gradient(
+    to bottom right,
+    #13f2dc,
+    #29cdf2,
+    #7147ff,
+    #af00fb
+  );
+  height: 100vh;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.labelBox {
+  width: 30%;
+}
+
+.headings {
+  font-family: roboto;
+}
+.userDetails {
+}
+.nameInput {
+  border-radius: 10px;
+  border-style: none;
+  margin: 10px;
+  /* background-color: orange; */
+  display: flex;
+  align-items: center;
+}
+.nameLabel {
+  margin-right: 10px;
+  font-weight: 500;
+  font-size: 18px;
+}
+.inputName {
+  border-radius: 10px;
+  border-style: none;
+  outline: none;
+  padding: 5px;
+}
+
+.boxButton {
+  width: 20%;
+  text-align: center;
+  margin-top: 20px;
+}
+.enterButton {
+  background-color: blue;
+  border-style: none;
+  border-radius: 10px;
+  font-family: roboto;
+  color: #ffffff;
+  padding: 10px;
+}
+.backColor {
+}
+.backColor {
+}

@@ -1,0 +1,146 @@
+.gameBackground {
+  background-image: linear-gradient(
+    to bottom right,
+    #13f2dc,
+    #29cdf2,
+    #7147ff,
+    #af00fb
+  );
+  min-height: 100vh;
+  padding: 10px;
+  padding-bottom: 10%;
+  padding-top: 6%;
+}
+
+.gameHeading {
+  text-align: center;
+  font-family: roboto;
+}
+
+.chooseButton {
+  margin: auto;
+}
+
+.insructionBox {
+  /* background-image: linear-gradient(to right bottom, #e14c20, #a11039, #319197); */
+  /* background-image: url('https://res.cloudinary.com/dprdrg8bk/image/upload/v1695124910/symbol-6784841_1280_ttjwc9.jpg'); */
+  background-size: cover;
+  background-image: linear-gradient(
+    to bottom right,
+    #13f2dc,
+    #29cdf2,
+    #7147ff,
+    #af00fb
+  );
+  border-radius: 15px;
+  border-style: solid;
+  /* border-color: #ffffff; */
+  /* border-width: 10px; */
+  border-color: #0d0d0d;
+  padding: 10px;
+}
+.modesSection {
+  display: flex;
+  align-items: center;
+  margin-top: -20px;
+  margin-bottom: 0px;
+}
+.mode {
+  font-family: roboto;
+  margin-right: 10px;
+  font-weight: bold;
+  font-size: 25px;
+}
+.levelParagraph {
+  font-family: roboto;
+  font-size: 20px;
+  font-weight: 470;
+  color: #ffffff;
+}
+
+.scoresSection {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 2%;
+  padding-right: 2%;
+  margin-top: 20px;
+}
+
+.boxGame {
+  background-color: #e4d5b6;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
+
+.gameIcon {
+  font-size: 170px;
+  color: blue;
+}
+
+.buttonboxes {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.startbuttons {
+  border-style: solid;
+  border-color: #0d0d0d;
+  /* border-color: linear-gradient(to-right, #13f2dc, #29cdf2, #7147ff, #af00fb); */
+  background-image: linear-gradient(
+    to bottom right,
+    #13f2dc,
+    #29cdf2,
+    #7147ff,
+    #af00fb
+  );
+  border-width: 2px;
+  height: 50px;
+  width: 150px;
+  border-radius: 15px;
+  font-family: roboto;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+@media screen and (min-width: 768px) {
+  .startbuttons {
+    height: 80px;
+    width: 250px;
+    font-size: 25px;
+  }
+}
+
+.gameHeading {
+}
+
+.gameHeading {
+}
+.gameHeading {
+}
+.gameHeading {
+}
+
+.gameHeading {
+}
+.gameHeading {
+}
+.gameHeading {
+}
+
+.gameHeading {
+}
+.gameHeading {
+}
+.gameHeading {
+}
+
+.gameHeading {
+}
+.gameHeading {
+}
+.gameHeading {
+}

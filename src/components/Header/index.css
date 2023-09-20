@@ -1,0 +1,27 @@
+.headerSection {
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+.leftBox {
+  background-color: #29cdf2;
+}
+
+.leftIcons {
+  display: flex;
+  background-color: #29cdf2;
+  border-radius: 5px;
+}
+
+.icons {
+  height: 50px;
+}
+
+.highScores {
+  font-family: roboto;
+  color: #29cdf2;
+}

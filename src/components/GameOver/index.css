@@ -1,0 +1,82 @@
+.overBackground {
+  background-image: radial-gradient(#c37893, #9273a6);
+  min-height: 100vh;
+  padding: 10px;
+}
+
+.imageBox {
+  text-align: center;
+}
+
+.gameImage {
+  margin: auto;
+  height: 60vh;
+}
+
+.playAgainBox {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.playAgain {
+  font-family: roboto;
+}
+
+.yesNoBox {
+  display: flex;
+  justify-content: center;
+}
+
+.boxLeft {
+  background-color: #ffffff;
+  border-color: black;
+  color: black;
+  border-style: solid;
+  border-radius: 15px;
+  font-family: roboto;
+  margin: 10px;
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+}
+
+.yesNoButton {
+}
+
+.box {
+  font-family: roboto;
+  background-color: black;
+  color: #ffffff;
+  border-style: solid;
+  border-color: #ffffff;
+  border-radius: 15px;
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.get {
+}
+
+.get {
+}
+
+.get {
+}
+
+.get {
+}
+
+.get {
+}
+
+.get {
+}
+
+.get {
+}
